@@ -2,7 +2,7 @@
 
 ##  Comandos básicos no git :
 
-*  red git status, 
+*  git status, 
 * crtl + L limpa a tela do console do git 
 * ls = listar diretórios
 * ls -a mostra arquivos ocultos
@@ -16,8 +16,15 @@
 * mkdir = criar pastas ex : mkdir  nomedapasta
 * cd \ apagar  
 * cd exemplo c:\  cd  arquivos de programas "apertando enter"  vai ficar c:\ arquivos de programas
-* git add * adicionar todos os arquivos para o git
-* 
+* git add *  adiciona a untracked 
+* commint -m "adiciona index" muda para staged
+* mv  // para mover arquivos ex: mv  teste.doc ./nomedapastadedestino/
+* git config  --list toda a lista de configuração  /alterar as configurações é git config --global --unset ex: user.email
+* git config --global user.email "gilbertoaleite@hotmail.com" 
+* git remote add origin  ex; https:// endereçodorepositorionogithub.git
+* git remote  -v lista os diretorios do git
+
+   // abaixo pode ser colocados mais codigos do git :paintbrush:  
 
 
 
