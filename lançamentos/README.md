@@ -3,10 +3,7 @@
 ##  Comandos básicos no git :
 
 * git status, 
-<<<<<<< HEAD
 
-=======
->>>>>>> a0fca0daec1be6bf8d65babd24389fb8cb148e4f
 * crtl + L limpa a tela do console do git 
 
 * ls = listar diretórios
@@ -20,8 +17,8 @@
 * git commit = publicar no git
 
 * echo  texto a ser exibido > nomeDoArquivo.extensãoEscolhida ex:  echo Olá mundo! > Olá mundo.md
-   echo > Olá mundo! > olá_mundo.md
-   
+  echo > Olá mundo! > olá_mundo.md
+
 * rmdir = apagar pastas. ex: c:\ rmdir\ teste  /s   /q
 
 * del = mkdir só que para arquivos
@@ -48,7 +45,4 @@
 
 * git push origin master // enviar da maquina para o github
 
-   // abaixo pode ser colocados mais codigos do git :paintbrush:  
-
-
-
+  // abaixo pode ser colocados mais codigos do git :paintbrush:  
