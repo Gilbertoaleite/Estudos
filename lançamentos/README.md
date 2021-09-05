@@ -2,7 +2,7 @@
 
 ##  Comandos básicos no git :
 
-*  red git status, 
+* git status, 
 * crtl + L limpa a tela do console do git 
 * ls = listar diretórios
 * ls -a mostra arquivos ocultos
