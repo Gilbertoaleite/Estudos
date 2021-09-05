@@ -3,7 +3,10 @@
 ##  Comandos básicos no git :
 
 * git status, 
+<<<<<<< HEAD
 
+=======
+>>>>>>> a0fca0daec1be6bf8d65babd24389fb8cb148e4f
 * crtl + L limpa a tela do console do git 
 
 * ls = listar diretórios
